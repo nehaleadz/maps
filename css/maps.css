@@ -1,0 +1,12 @@
+#map, #pano{
+    height: 100%;
+    float: left;
+    width: 50%;
+}
+
+#places-search{
+    width: 250px;
+}
+#toggle-drawing{
+    width: 20%
+}
